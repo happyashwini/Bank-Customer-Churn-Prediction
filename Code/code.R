@@ -3,7 +3,7 @@ library(ggplot2)
 library(gplots)
 library(dplyr)
 
-setwd("D:/Master/Semester2/datavisualization/New folder/DATA VISUALIZATION/BankChurners.csv")
+setwd("dataset/BankChurners.csv")
 
 # Load the data
 
